@@ -1,0 +1,21 @@
+CLASE 3
+
+-Para hacer un formulario elegir etiqueta "form", y en vez de usar muchos "div", usar "p".
+
+-Para llenar casilla con un nombre/apellido 
+	1) label y entre simbolos mayor menor colocar nombre/apellido
+	2) un input tipo "text", para llenar el nombre/apellido con 50 caracteres max maxlength=50""
+
+-Para llenar circulo con sexo
+	1)input tipo radio y seguido name="sexo" 
+
+-Para llenar casilla con un mail 
+	1) label y entre simbolos mayor menor colocar correo
+	2) un input tipo email, para llenar el nombre/apellido
+
+-Para hacer cuadrito de tilde (checkbox)
+	1) input tipo "checkbox"
+	2) un label para escribir el texto que deseo tildar
+
+-Para boton de envio
+	1)un button
