@@ -1,0 +1,19 @@
+git es el control de versiones.
+
+-Para clonar un proyecto
+en la terminal bash de git:
+
+1) git clone https://github.com/delfor/prueba-pp3.git  (acordarse donde uno esta parado, generalmente en el escritorio)
+
+
+-Para subir el cabio hecho en visual al repositorio
+
+tocar en el mas
+
+hacer un commit o mensaje
+
+tocar en el tilde 1/ 
+
+por unica vez salta un mensaje, de quien esta intentando hacer el cambio
+
+cliquear en los 3 puntitos, push
