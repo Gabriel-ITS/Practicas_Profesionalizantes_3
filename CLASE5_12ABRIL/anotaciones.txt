@@ -1,0 +1,63 @@
+en css cuando aplico la propiedad color se refiere al color del texto,
+
+        .fondo 
+        {
+            background: blue;
+            color: white;
+
+        }
+
+-En html si quisiera poner propiedades css deberia encerrarlas en una etiqueta style:
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+    </head>
+    <body class="fondo">
+
+        <p class="estilo_texto">
+            Ejercitando css
+        </p>
+        
+        <button class="estilo_boton">Aceptar</button>
+        
+    </body>
+
+    <style>
+        .fondo 
+        {
+            background: blue;
+            color: white;
+
+        }
+
+        .estilo_boton 
+        {
+            height: 40px;
+            width: 200px;
+
+        }
+
+        .estilo_texto
+        {
+           font-family: Arial, Helvetica, sans-serif;
+           font-size: 20px;
+
+        }
+
+
+    </style>
+</html>
+
+
+- En html para hacer uso del codigo css hay que llamar a la libreria:
+
+ <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="index.css">
+        <title>Document</title>
+    </head>

@@ -1,0 +1,20 @@
+.fondo 
+    {
+         background: blue;
+         color: white;
+
+    }
+
+.estilo_boton 
+    {
+        height: 40px;
+         width: 200px;
+
+    }
+
+.estilo_texto
+    {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 20px;
+
+    }
