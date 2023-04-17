@@ -1,0 +1,25 @@
+CLASE 4
+
+-usamos una etiqueta de tipo form
+-para la primer parte usamos label para nombre y abajo en el input debemos ademas agergar controles
+como required y autofocus (para que se dispare el control validacion (required) si o si debemos
+usar el elemento formulario form). Y ademas puedo validar con un boton submit que me muestra un popup
+si no agrego nada en nombre:
+	<form>
+            <p>
+                <label>Nombre</label>
+                <input type="text" required autofocus>
+            </p>
+            <button type="submit">Enviar</button>
+        </form>
+
+-para el cuadro URL, al input url le agregamos un placeholder con el mensaje de ayuda que debe aparecer dentro 
+del cuadro.
+		<p>			
+                <label>URL:</label>
+                <input type="url" placeholder="Escribe la URL de tu página web personal">
+            </p>
+
+-para el cuadro numero:
+el input debe ser un number y agregamos requerimientos min y max
+
