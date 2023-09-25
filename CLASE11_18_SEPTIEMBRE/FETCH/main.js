@@ -1,6 +1,6 @@
-function solicitar(){
+async function solicitar(){
 
-     const async lista = await fetch("")
+     const lista = await fetch("")
 
     //convertir los datos recibidos en una expresion nativa de javascript
     const lista_definitiva = lista.json()
