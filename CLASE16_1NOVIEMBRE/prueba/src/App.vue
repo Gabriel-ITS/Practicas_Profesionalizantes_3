@@ -7,9 +7,9 @@
       </button>
       <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
         <div class="navbar-nav">
-          <router-link class="nav-kink" to="/">Home</router-link>
-          <router-link class="nav-kink" to="/about">About</router-link>
-          <router-link class="nav-kink" to="/clientes">Clientes</router-link>
+          <router-link class="nav-link" to="/">Home</router-link>
+          <router-link class="nav-link" to="/about">About</router-link>
+          <router-link class="nav-link" to="/clientes">Clientes</router-link>
         </div>
       </div>
     </div>

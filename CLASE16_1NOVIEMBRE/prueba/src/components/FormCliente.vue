@@ -74,7 +74,5 @@ export default {
         this.mostrar_mensaje()
         this.consumir_api()
     }
-
 }
-
 </script>
